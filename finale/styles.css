@@ -15,6 +15,31 @@ body {
     width: 100%;
 }
 
+h1
+{
+  font-family: Papyrus, fantasy;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+h2
+{
+  color:black;
+}
+
+p
+{
+  font-family: Papyrus, fantasy;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+  color:cyan;
+}
 @charset "UTF-8";
 
 /*!
@@ -27,7 +52,7 @@ body {
 
  body
  {
-  background-color: cyan
+  background-color: black
  }
 
  h1
