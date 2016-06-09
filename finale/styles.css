@@ -27,7 +27,7 @@ h1
 
 h2
 {
-  color:black;
+  font-family: Papyrus, fantasy;
 }
 
 p
@@ -79,6 +79,7 @@ p
  {
   color:white;
  }
+
 
 .animated {
   -webkit-animation-duration: 1s;
